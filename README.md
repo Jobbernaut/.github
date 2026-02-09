@@ -12,13 +12,13 @@ The ecosystem is composed of **5 decoupled micro-repositories** working in harmo
 
 | Repository | Role | Technology Stack |
 | :--- | :--- | :--- |
-| **[jobbernaut-infra](https://github.com/YOUR_USERNAME/jobbernaut-infra)** | **Foundation** | **Terraform** (HCL), AWS IAM, S3, DynamoDB. |
-| **[jobbernaut-tabs](https://github.com/YOUR_USERNAME/jobbernaut-tabs)** | **Frontend** | **Next.js**, React, Tailwind CSS. |
-| **[jobbernaut-backend](https://github.com/YOUR_USERNAME/jobbernaut-backend)** | **Control** | **Python** (AWS Lambda), Boto3, Pydantic. |
-| **[jobbernaut-tailor](https://github.com/YOUR_USERNAME/jobbernaut-tailor)** | **Intelligence** | **Docker**, Python, LangChain (AI), TeXLive (LaTeX). |
-| **[jobbernaut-extract](https://github.com/YOUR_USERNAME/jobbernaut-extract)** | **Collection** | **Chrome Extension** (Manifest V3), JavaScript. |
+| **[jobbernaut-infra](https://github.com/Jobbernaut/jobbernaut-infra)** | **Foundation** | **Terraform** (HCL), AWS IAM, S3, DynamoDB. |
+| **[jobbernaut-tabs](https://github.com/Jobbernaut/jobbernaut-tabs)** | **Frontend** | **Next.js**, React, Tailwind CSS. |
+| **[jobbernaut-backend](https://github.com/Jobbernaut/jobbernaut-backend)** | **Control** | **Python** (AWS Lambda), Boto3, Pydantic. |
+| **[jobbernaut-tailor](https://github.com/Jobbernaut/jobbernaut-tailor)** | **Intelligence** | **Docker**, Python, LangChain (AI), TeXLive (LaTeX). |
+| **[jobbernaut-extract](https://github.com/Jobbernaut/jobbernaut-extract)** | **Collection** | **Chrome Extension** (Manifest V3), JavaScript. |
 
-> 📘 **Documentation:** For deep dives into the architecture, data flows, and setup guides, visit **[jobbernaut-docs](https://github.com/YOUR_USERNAME/jobbernaut-docs)**.
+> 📘 **Documentation:** For deep dives into the architecture, data flows, and setup guides, visit **[jobbernaut-docs](https://github.com/Jobbernaut/jobbernaut-docs)**.
 
 ---
 
