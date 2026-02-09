@@ -30,6 +30,14 @@ The ecosystem is composed of **5 decoupled micro-repositories** working in harmo
 * **LaTeX Precision:** Renders high-quality, ATS-friendly PDFs using a headless LaTeX engine.
 * **Infrastructure as Code:** 100% of the cloud environment is defined and reproducible via Terraform.
 
+---
+
+## ⚖️ Legal
+
+Unless otherwise noted, all repositories within the **Jobbernaut** organization are licensed under the **PolyForm Noncommercial License 1.0.0**. 
+
+If a repository lacks a specific LICENSE file, the license located at [https://github.com/Jobbernaut/.github/blob/main/LICENSE.md](https://github.com/Jobbernaut/.github/blob/main/LICENSE.md) applies by default.
+
 ## 📜 License
 
 The entire Jobbernaut Ecosystem is source-available under the **PolyForm Noncommercial License 1.0.0**.
